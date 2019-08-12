@@ -206,4 +206,4 @@ define( 'WP_MEMORY_LIMIT', '256M' );
 If you find an issue, let us know [here](https://github.com/Alimir/wp-ulike/issues?state=open)!
 
 ## Support ##
-Please visit the [support forums](https://wordpress.org/support/plugin/wp-ulike).
+Please visit the [support forums](https://wordpress.org/support/plugin/wp-ulike). 
